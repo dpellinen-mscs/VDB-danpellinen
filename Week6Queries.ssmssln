@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "PropertyManager", "..\..\..\Documents\SQL Server Management Studio\PropertyManager\PropertyManager.ssmssqlproj", "{B2FC01FF-AE45-4146-B4F4-DBE6F501DACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{150933B9-FC65-4EB1-9815-527E074C7FEC}.Default|Default.ActiveCfg = Default
+		{B2FC01FF-AE45-4146-B4F4-DBE6F501DACA}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46F5D9CE-2520-47BC-8435-50A3B05CC02E}
+	EndGlobalSection
+EndGlobal
